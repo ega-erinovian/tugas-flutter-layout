@@ -1,3 +1,7 @@
+Tugas flutter layout Praktikum TPM IF-A UPN "Veteran" Yogyakarta
+Nama : Ega Erinovian Megananda P
+NIM  : 123190113
+
 # flutter_layout
 
 A new Flutter project with layout.
